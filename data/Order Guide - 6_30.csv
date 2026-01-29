@@ -1,0 +1,80 @@
+Category,Item Name,Brand Name,Vendor,Stock Location,Order Days,Par,In Stock,Reorder?
+Bitters,Cherry Bark Vanilla Bitters,Bittercube,Amazon,Bar,,,,No
+Juice,Peach Juice,,Breakthru,Dry Storage,Tue,,,No
+Mixers,Grenadine,Rose's,Breakthru,Dry Storage,Tue,,,No
+Prep,Coco Lopez,15oz,Breakthru,Dry Storage,Tue,,,No
+Mixers,Red Bull,,Breakthru,Dry Storage,Tue,,,No
+Mixers,Sugar Free Red Bull,,Breakthru,Dry Storage,Tue,,,No
+Bitters,Mole Bitters,Bittermans,Breakthru,Back Bar,Tue,,,No
+Water,Acqua Panna,1L,Breakthru,Water Cooler,Tue,,,No
+Water ,San Pelegrino,1L,Breakthru,Water Cooler,Tue,,,No
+Water,San Pelegrino,250ml,Breakthru,Water Cooler,Tue,,,No
+Mixers,Bloody Mary,ZingZang,Breakthru,Dry Storage,Tue,,,No
+Juice,Cranberry Juice,Ocean Spray,Performance,Dry Storage,"Mon, Thur",4,4,No
+Juice,Grapefruit Juice,Ocean Spray,Performance,Dry Storage,"Mon, Thur",4,5,No
+Juice,Pineapple Juice,Dole,Performance,Dry Storage,"Mon, Thur",4,9,No
+Juice,Orange Juice,,Performance,Walk-in,"Mon, Thur",4,8,No
+Mixers,Tonic Water,,Performance,Bar,"Mon, Thur",1,1,No
+Garnish,Olives,,Performance,Kitchen,"Mon, Thur",2,3.5,No
+Garnish,Lemon,,Performance,Walk-in,"Mon, Thur",1,1.5,No
+Garnish,Strawberries,,Performance,Walk-in,"Mon, Thur",4,6,No
+Garnish,Apples,,Performance,Walk-in,"Mon, Thur",1,1,No
+Paper Goods,Bamboo Knot Picks,"4""",Performance,Dry Storage,"Mon, Thur",3,7,No
+Paper Goods,Cocktail Stirrers,,Performance,Dry Storage,"Mon, Thur",3,6,No
+Paper Goods,Straws,"7.75""",Performance,Dry Storage,"Mon, Thur",3,7,No
+Paper Goods,Beverage Napkins,,Performance,Dry Storage,"Mon, Thur",4,7,No
+Mixers,Ginger Beer,Gosling's,Southern,Dry Storage,Tue,,,No
+Juice,Olive Juice,Filthy,Southern,Dry Storage,Tue,,,No
+Mixers,Agave Nectar,Tres Agave 375ml,Southern,Bar,Tue,,,No
+Bitters,Angostura,16oz,Southern,Bar,Tue,,,No
+Garnish,Blue Cheese Olives,Filthy,Southern,Dry Storage,Tue,,,No
+Garnish,Luxardo Cherries,1kg,Southern,Dry Storage,Tue,,,No
+Juice,Lime Juice,,Twisted Alchemist,Walk-in,,,,No
+Juice,Lemon Juice,,Twisted Alchemist,Walk-in,,,,No
+Mixers,Green River,,,,,,,No
+Bitters,Orange Bitters,Reagan's,,,,,,No
+Ice,Double Rocks,Fat Ice,Fat Ice,Freezer,,,,No
+Mixers,Coke,,Performance,Bar,"Mon, Thur",4,0,Yes
+Mixers,Diet Coke,,Performance,Bar,"Mon, Thur",2,1,Yes
+Mixers,Sprite,,Performance,Bar,"Mon, Thur",2,0,Yes
+Mixers,Soda Water,,Performance,Bar,"Mon, Thur",3,0,Yes
+Mixers,Ginger Ale,,Performance,Bar,"Mon, Thur",1,0.5,Yes
+Garnish,Lime,,Performance,Walk-in,"Mon, Thur",1,0.5,Yes
+Garnish,Orange,,Performance,Walk-in,"Mon, Thur",2,1.5,Yes
+Garnish,Rosemary,,Performance,Walk-in,"Mon, Thur",2,1,Yes
+Garnish,Pineapple,,Performance,Walk-in,"Mon, Thur",3,0,Yes
+Spirits,Cranberry Gin,Koval,RNDC,Bar,Thur,,,
+Spirits,Barrel Gin,Koval,RNDC,Bar,Thur,,,
+Spirits,Coffee Liqueur,Koval,RNDC,Bar,Thur,,,
+Spirits,Broker's Gin,,RNDC,Bar,Thur,,,
+Spirits,Flor De Cana,,RNDC,Bar,Thur,,,
+Spirits,Bourbon,Four Roses,RNDC,Bar,Thur,,,
+Spirits,Single Barrel Select,Four Roses,RNDC,Bar,Thur,,,
+Spirits,Small Batch,Four Roses,RNDC,Bar,Thur,,,
+Spirits,Single Barrel,Four Roses,RNDC,Bar,Thur,,,
+Spirits,Lalo Tequila,,RNDC,Bar,Thur,,,
+Spirits,Macallan 12,,RNDC,Bar,Thur,,,
+Spirits,Macallan 18,,RNDC,Bar,Thur,,,
+Spirits,Blanco,Casamigos,Breakthru,Bar,Tue,,,
+Spirits,Reposado,Casamigos,Breakthru,Bar,Tue,,,
+Spirits,Tanqueray,,Breakthru,Bar,Tue,,,
+Spirits,Jack Daniels,,Breakthru,Bar,Tue,,,
+Spirits,Fernet Branca,,Breakthru,Bar,Tue,,,
+Spirits,Tullermore Dew,,Breakthru,Bar,Tue,,,
+Spirits,Absolut,,Southern,Bar,Tue,,,
+Spirits,Greygoose,,Southern,Bar,Tue,,,
+Spirits,Sapphire,Bombay,Southern,Bar,Tue,,,
+Spirits,Anejo,Lunazul,Southern,Bar,Tue,,,
+Spirits,Vida,Del Maguey,Southern,Bar,Tue,,,
+Spirits,Maker's Mark,,Southern,Bar,Tue,,,
+Spirits,Knob Creek,,Southern,Bar,Tue,,,
+Spirits,Elijah Craig,,Southern,Bar,Tue,,,
+Spirits,Bourbon,Angel's Envy,Southern,Bar,Tue,,,
+Spirits,Rye,Angel's Envy,Southern,Bar,Tue,,,
+Spirits,Rittenhouse,,Southern,Bar,Tue,,,
+Spirits,Aperol,,Southern,Bar,Tue,,,
+Spirits,Campari,,Southern,Bar,Tue,,,
+Spirits,Grand Marnier,,Southern,Bar,Tue,,,
+Spirits,Luxardo Maraschino Liqueur,,Southern,Bar,Tue,,,
+Spirits,St. Germain,,Southern,Bar,Tue,,,
+Spirits,Fontbonne,,Southern,Bar,Tue,,,

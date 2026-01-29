@@ -1,0 +1,147 @@
+Category,Item Name,Brand Name,Vendor,Stock Location,Order Days,Par,In Stock,Reorder?
+Bitters,Cherry Bark Vanilla Bitters,Bittercube,Amazon,Bar,,,0,No
+Bitters,Mole Bitters,Bittermans,Breakthru,Back Bar,Tue,3,2,Yes
+Bitters,Angostura,16oz,Southern,Bar,Mon,,3,No
+Bitters,Orange Bitters,Reagan's,,,,,,No
+Garnish,Olives,,Performance,Kitchen,"Mon, Thur",2,3,No
+Garnish,Lemon,,Performance,Walk-in,"Mon, Thur",1,1,No
+Garnish,Strawberries,,Performance,Walk-in,"Mon, Thur",4,6,No
+Garnish,Apples,,Performance,Walk-in,"Mon, Thur",0.5,0.6,No
+Garnish,Lime,,Performance,Walk-in,"Mon, Thur",1,1,No
+Garnish,Orange,,Performance,Walk-in,"Mon, Thur",2,1,Yes
+Garnish,Rosemary,,Performance,Walk-in,"Mon, Thur",2,0,Yes
+Garnish,Pineapple,,Performance,Walk-in,"Mon, Thur",3,2,Yes
+Garnish,Blue Cheese Olives,Filthy,Southern,Dry Storage,Mon,0.25,0.5,No
+Garnish,Luxardo Cherries,1kg,Southern,Dry Storage,Mon,0.25,0.5,No
+Ice,Double Rocks,Fat Ice,Fat Ice,Freezer,"Tue, Wed, Thur, Fri",,,No
+Juice,Peach Juice,Finest Call,Breakthru,Dry Storage,Tue,6,0,Yes
+Juice,Cranberry Juice,Ocean Spray,Performance,Dry Storage,"Mon, Thur",4,1,Yes
+Juice,Grapefruit Juice,Ocean Spray,Performance,Dry Storage,"Mon, Thur",4,10,No
+Juice,Pineapple Juice,Dole,Performance,Dry Storage,"Mon, Thur",4,15,No
+Juice,Orange Juice,,Performance,Walk-in,"Mon, Thur",4,12,No
+Juice,Lime Juice,,Performance,Walk-in,"Mon, Thur",6,0,Yes
+Juice,Lemon Juice,,Performance,Walk-in,"Mon, Thur",6,0,Yes
+Juice,Olive Juice,Filthy,Southern,Dry Storage,Mon,,0,No
+Keg,Miller Lite,,CBS,Walk-In,Fri,,,No
+Keg,Summer Shandy,,CBS,Walk-In,Fri,,,No
+Keg,Truly,,CBS,Walk-In,Fri,,,No
+Keg,Modelo,,CBS,Walk-In,Fri,,,No
+Keg,Blue Moon,,CBS,Walk-In,Fri,,,No
+Keg,Krombacher,,CBS,Walk-In,Fri,,,No
+Keg,Guiness,,CBS,Walk-In,Fri,,,No
+Keg ,Lagunitas IPA,,CBS,Walk-In,Fri,,,No
+Mixers,Grenadine,Rose's,Breakthru,Dry Storage,Tue,4,20,No
+Mixers,Red Bull,,Breakthru,Dry Storage,Tue,12,0,Yes
+Mixers,Sugar Free Red Bull,,Breakthru,Dry Storage,Tue,12,6,Yes
+Mixers,Bloody Mary,ZingZang,Breakthru,Dry Storage,Tue,12,8,Yes
+Mixers,Tonic Water,,Performance,Bar,"Mon, Thur",1,2.5,No
+Mixers,Coke,,Performance,Bar,"Mon, Thur",4,0,Yes
+Mixers,Diet Coke,,Performance,Bar,"Mon, Thur",2,1,Yes
+Mixers,Sprite,,Performance,Bar,"Mon, Thur",2,0,Yes
+Mixers,Soda Water,,Performance,Bar,"Mon, Thur",3,0,Yes
+Mixers,Ginger Ale,,Performance,Bar,"Mon, Thur",1,1,No
+Mixers,Ginger Beer,Gosling's,Southern,Dry Storage,Mon,1.75,1.5,Yes
+Mixers,Agave Nectar,Tres Agave 750ml,Southern,Bar,Mon,3,11,No
+Mixers,Green River,,,,,,,No
+Paper Goods,Bamboo Knot Picks,"4""",Performance,Dry Storage,"Mon, Thur",3,10,No
+Paper Goods,Cocktail Stirrers,,Performance,Dry Storage,"Mon, Thur",3,8,No
+Paper Goods,Straws,"7.75""",Performance,Dry Storage,"Mon, Thur",3,11,No
+Paper Goods,Beverage Napkins,,Performance,Dry Storage,"Mon, Thur",4,2,Yes
+Prep,Coco Lopez,15oz,Breakthru,Dry Storage,Tue,6,2,Yes
+Prep,Turbinado Sugar,Sugar In The Raw,Performance,Dry Storage,Tue,4,0,Yes
+Red Wine,Real Sangria,,Southern,Walk-In,Mon,,10,No
+Red Wine,Pinot Noir,Banshee,Southern,Wine Wall,Mon,,15,No
+Red Wine,Pinot Noir,Davis Bynum,Southern,Wine Wall,Mon,,,No
+Red Wine,Red Blend,Harvey & Harriet,Southern,Wine Wall,Mon,,,No
+Red Wine,Red Blend,Prisoner,Southern,Wine Wall,Mon,,,No
+Red Wine,Cabernet,Seaglass,Southern,Wine Wall,Mon,,,No
+Red Wine,Cabernet,Charles Krug,Southern,Wine Wall,Mon,,,No
+Red Wine,Cabernet,Caymus,Southern,Wine Wall,Mon,,,No
+Red Wine,Red Blend,Palisades,Southern,Wine Wall,Mon,,,No
+Spirits,Blanco,Casamigos,Breakthru,Bar,Tue,2,4,No
+Spirits,Reposado,Casamigos,Breakthru,Bar,Tue,2,8,No
+Spirits,Tanqueray,,Breakthru,Bar,Tue,1,1.4,No
+Spirits,Jack Daniels,,Breakthru,Bar,Tue,2,4,No
+Spirits,Fernet Branca,,Breakthru,Bar,Tue,1,2,No
+Spirits,Tullermore Dew,,Breakthru,Bar,Tue,0.5,0.9,No
+Spirits,Woodford Reserve,,Breakthru,Bar,Tue,0.5,1.8,No
+Spirits,Disaronno,,Breakthru,Bar,Tue,0,0.8,No
+Spirits,Reposado,Don Julio,Breakthru,Bar,Tue,2,2,No
+Spirits,Blanco,Don Julio,Breakthru,Bar,Tue,2,2,No
+Spirits,1942,Don Julio,Breakthru,Bar,Tue,0.5,0.7,No
+Spirits,Crown Royal,,Breakthru,Bar,Tue,0.5,0.8,No
+Spirits,Black Label,Johnnie Walker,Breakthru,Bar,Tue,0.5,1.5,No
+Spirits,14 Caribbean Cask,The Balvenie,Breakthru,Bar,Tue,0.5,0.5,No
+Spirits,Hendrick's,,Breakthru,Bar,Tue,2,2,No
+Spirits,Kaiyo,,Breakthru,Bar,Tue,0.5,6,No
+Spirits,Triple Sec,Mr. Boston,Breakthru,Bar,Tue,3,1,Yes
+Spirits,Spiced,Captain Morgan,Breakthru,Bar,Tue,0.5,0.6,No
+Spirits,Tito's,,Breakthru,Bar,Tue,6,7,No
+Spirits,Ketel One,,Breakthru,Bar,Tue,2,2.5,No
+Spirits,Meyer's Rum,,Breakthru,Bar,Tue,1,2,No
+Spirits,Bailey's,,Breakthru,Bar,Tue,0,1,No
+Spirits,Chambord,,Breakthru,,Tue,0.2,0,Yes
+Spirits,Rumple Minze,,Breakthru,,Tue,0.5,0,Yes
+Spirits,Real De Valle,,Maverick,Bar,,0,0,No
+Spirits,Cranberry Gin,Koval,RNDC,Bar,Thur,6,5,Yes
+Spirits,Barrel Gin,Koval,RNDC,Bar,Thur,6,5,Yes
+Spirits,Coffee Liqueur,Koval,RNDC,Bar,Thur,6,0,Yes
+Spirits,Broker's Gin,,RNDC,Bar,Thur,3,8,No
+Spirits,Flor De Cana,,RNDC,Bar,Thur,12,14,No
+Spirits,Bourbon,Four Roses,RNDC,Bar,Thur,6,0,Yes
+Spirits,Single Barrel Select,Four Roses,RNDC,Bar,Thur,0.5,0.8,No
+Spirits,Small Batch,Four Roses,RNDC,Bar,Thur,0.5,0.8,No
+Spirits,Single Barrel,Four Roses,RNDC,Bar,Thur,0.5,0.8,No
+Spirits,Lalo Tequila,,RNDC,Bar,Thur,0.5,5,No
+Spirits,Macallan 12,,RNDC,Bar,Thur,0.5,1.5,No
+Spirits,Macallan 18,,RNDC,Bar,Thur,0.5,0.7,No
+Spirits,Brugal 1888,,RNDC,Bar,Thur,0.5,2.7,No
+Spirits,Absolut,,Southern,Bar,Mon,6,4,Yes
+Spirits,Grey Goose,,Southern,Bar,Mon,2,2,No
+Spirits,Sapphire,Bombay,Southern,Bar,Mon,1,2.5,No
+Spirits,Anejo,Lunazul,Southern,Bar,Mon,6,3,Yes
+Spirits,Vida,Del Maguey,Southern,Bar,Mon,4,5,No
+Spirits,Maker's Mark,,Southern,Bar,Mon,1,1.5,No
+Spirits,Knob Creek,,Southern,Bar,Mon,0.5,0.25,Yes
+Spirits,Elijah Craig,,Southern,Bar,Mon,0.5,0.5,No
+Spirits,Bourbon,Angel's Envy,Southern,Bar,Mon,0.5,0.3,Yes
+Spirits,Rye,Angel's Envy,Southern,Bar,Mon,0.5,0.8,No
+Spirits,Rittenhouse,,Southern,Bar,Mon,3,9,No
+Spirits,Aperol,,Southern,Bar,Mon,3,3.5,No
+Spirits,Campari,,Southern,Bar,Mon,1,0.5,Yes
+Spirits,Grand Marnier,,Southern,Bar,Mon,1,0.8,Yes
+Spirits,Luxardo Maraschino Liqueur,,Southern,Bar,Mon,4,5.2,No
+Spirits,St. Germain,,Southern,Bar,Mon,12,18,No
+Spirits,Fontbonne,,Southern,Bar,Mon,3,3,No
+Spirits,400 Conejos,,Southern,Bar,Mon,,7,No
+Spirits,Sweet Vermouth,Tribuno,Southern,Bar,Mon,,0.8,No
+Spirits,Dry Vermouth,Foro,Southern,Bar,Mon,,2.8,No
+Spirits,Monkey 47,,Southern,Bar,Mon,0.5,0.3,Yes
+Spirits,Rouge,Lillet,Southern,Bar,Mon,0,0.3,No
+Spirits,Basil Hayden,,Southern,Bar,Mon,,0.1,No
+Spirits,Jameson,,Southern,Bar,Mon,,2,No
+Spirits,12,The Glenlivet,Southern,Bar,Mon,,0.8,No
+Spirits,14 Caribbean Cask,The Glenlivet,Southern,Bar,Mon,,0.4,No
+Spirits,Blanc,Lillet,Southern,Bar,Mon,,0,No
+Spirits,Nonino,,Southern,Bar,Mon,,0,No
+Spirits,Yellow,Chartruese,,Bar,,,,No
+Spirits,Clase Azul,,,Bar,,,,No
+Spirits,Burrito Mezcal,,,Bar,,,,No
+Water,Acqua Panna,1L,Breakthru,Water Cooler,Tue,6,4,Yes
+Water,San Pelegrino,250ml,Breakthru,Water Cooler,Tue,6,0,Yes
+Water ,San Pelegrino,1L,Breakthru,Water Cooler,Tue,6,0,Yes
+White Wine,Prosecco,Riondo,Southern,Wine Wall,Mon,,0,No
+White Wine,Cremant,Gratien & Meyer,Southern,Wine Wall,Mon,,47,No
+White Wine,Brut,Nicolas Feuillete,Southern,Wine Wall,Mon,,10,No
+White Wine,Rose,Studio by Miravel,Southern,Wine Wall,Mon,,1,No
+White Wine,Rose,Le Fete Du Rose,Southern,Wine Wall,Mon,,11,No
+White Wine,Pinot Grigio,Carletto,Southern,Wine Wall,Mon,,0,No
+White Wine,Pinot Grigio,Ruffino Aqua D'Venus,Southern,Wine Wall,Mon,,13,No
+White Wine,Sauvignon Blanc,Rapaura Springs,Southern,Wine Wall,Mon,,4,No
+White Wine,Sauvignon Blanc,Bella Union by Far Niete,Southern,Wine Wall,Mon,,14,No
+White Wine,Sancerre,Chateu de Sancerre,Southern,Wine Wall,Mon,,24,No
+White Wine,Albarino,Terras Gauda Abadia,Southern,Wine Wall,Mon,,28,No
+White Wine,Chardonnay,Sea Sun by Caymus,Southern,Wine Wall,Mon,,23,No
+White Wine,Chardonnay,The Calling,Southern,Wine Wall,Mon,,13,No
+White Wine,Rose,Joel Gott,Southern,Wine Wall,Mon,,22,No
+White Wine,Cava,Campo Viejo,Southern,Wine Wall,Mon,,6,No
